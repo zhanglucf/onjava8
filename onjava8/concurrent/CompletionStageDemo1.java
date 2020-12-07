@@ -8,7 +8,7 @@ public class CompletionStageDemo1 {
 
     @Test
     public void demo() {
-
+        //---
         CompletableFuture<String> cf = CompletableFuture.supplyAsync(() -> {
             try {
                 System.out.println("要开始睡觉了");

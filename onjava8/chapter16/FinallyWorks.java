@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter16;
+package chapter16;
 
 // exceptions/FinallyWorks.java
 // The finally clause is always executed

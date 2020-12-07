@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter12;
+package chapter12;
 
 // collections/SetOfInteger.java
 import java.util.*;

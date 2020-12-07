@@ -1,8 +1,8 @@
-package com.example.onjava8.chapter21;
+package chapter21;
 
 import java.util.Random;
 
-import static com.example.onjava8.chapter21.Outcome.*;
+import static chapter21.Outcome.*;
 
 // enums/Outcome.java
 // enums/RoShamBo1.java

@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter21;
+package chapter21;
 
 // enums/Reflection.java
 // Analyzing enums using reflection

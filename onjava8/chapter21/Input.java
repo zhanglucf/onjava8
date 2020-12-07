@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter21;
+package chapter21;
 
 // enums/Input.java
 import java.util.*;

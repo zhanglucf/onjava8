@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter5;
+package chapter5;
 
 // typeinfo/PetCount3.java
 // 使用 isInstance() 方法

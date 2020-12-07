@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/CompType.java
 // Implementing Comparable in a class
@@ -6,7 +6,7 @@ package com.example.onjava8.chapter9;
 import java.util.Arrays;
 import java.util.SplittableRandom;
 
-import static com.example.onjava8.chapter9.ArrayShow.show;
+import static chapter9.ArrayShow.show;
 
 public class CompType implements Comparable<CompType> {
     private static int count = 1;

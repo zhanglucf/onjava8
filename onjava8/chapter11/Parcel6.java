@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter11;
+package chapter11;
 
 /**
  * TrackingSlip 类被嵌入在 if 语句的作用域内，这并不是说该类的创建是有条件的，

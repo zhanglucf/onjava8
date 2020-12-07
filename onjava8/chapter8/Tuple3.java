@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter8;
+package chapter8;
 
 public class Tuple3<A, B, C> extends Tuple2<A, B> {
     public final C a3;

@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter19;
+package chapter19;
 
 // typeinfo/toys/ToyTest.java
 // 测试 Class 类

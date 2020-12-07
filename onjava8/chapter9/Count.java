@@ -1,11 +1,11 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // onjava/Count.java
 // Generate incremental values of different types
 import java.util.*;
 import java.util.function.*;
 
-import static com.example.onjava8.chapter9.ConvertTo.primitive;
+import static chapter9.ConvertTo.primitive;
 
 public interface Count {
     class Boolean implements Supplier<java.lang.Boolean> {

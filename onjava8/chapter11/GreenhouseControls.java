@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter11;
+package chapter11;
 
 // innerclasses/GreenhouseControls.java
 // This produces a specific application of the

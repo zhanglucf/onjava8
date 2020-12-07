@@ -1,4 +1,4 @@
-package com.example.onjava8.concurrent;
+package concurrent;
 
 /*
  * exceptionally() 参数仅在出现异常时才运行。exceptionally() 局限性在于，该函数只能返回输入类型相同的值。

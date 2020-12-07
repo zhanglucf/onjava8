@@ -1,6 +1,7 @@
-package com.example.onjava8.concurrent;
+package concurrent;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 
 import java.util.concurrent.CompletableFuture;
 

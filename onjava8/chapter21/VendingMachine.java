@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter21;
+package chapter21;
 
 // enums/VendingMachine.java
 // {java VendingMachine VendingMachineInput.txt}

@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter5;
+package chapter5;
 
 /**
  * Pair 是一个只读的 数据传输对象

@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter1;
+package chapter1;
 
 
 import java.text.SimpleDateFormat;

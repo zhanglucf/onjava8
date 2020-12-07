@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter3;
+package chapter3;
 
 public @interface Uniqueness {
     Constraints constraints() default @Constraints(unique = true);

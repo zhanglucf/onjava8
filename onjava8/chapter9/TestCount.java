@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/TestCount.java
 // Test counting generators
@@ -7,7 +7,7 @@ import java.util.function.IntConsumer;
 import java.util.function.IntFunction;
 import java.util.stream.*;
 
-import static com.example.onjava8.chapter9.ArrayShow.show;
+import static chapter9.ArrayShow.show;
 
 public class TestCount {
     static final int SZ = 5;

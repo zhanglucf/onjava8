@@ -1,10 +1,10 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/FillingArrays.java
 // Using Arrays.fill()
 import java.util.*;
 
-import static com.example.onjava8.chapter9.ArrayShow.show;
+import static chapter9.ArrayShow.show;
 
 public class FillingArrays {
     public static void main(String[] args) {

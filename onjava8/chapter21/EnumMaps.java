@@ -1,11 +1,11 @@
-package com.example.onjava8.chapter21;
+package chapter21;
 
 // enums/EnumMaps.java
 // Basics of EnumMaps
 // {java enums.EnumMaps}
 import java.util.*;
 
-import static com.example.onjava8.chapter21.AlarmPoints.*;
+import static chapter21.AlarmPoints.*;
 
 interface Command { void action(); }
 public class EnumMaps {

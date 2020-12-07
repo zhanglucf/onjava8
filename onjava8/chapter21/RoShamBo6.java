@@ -1,7 +1,7 @@
-package com.example.onjava8.chapter21;
+package chapter21;
 
 
-import static com.example.onjava8.chapter21.Outcome.*;
+import static chapter21.Outcome.*;
 
 enum RoShamBo6 implements Competitor<RoShamBo6> {
     PAPER, SCISSORS, ROCK;

@@ -1,10 +1,10 @@
-package com.example.onjava8.chapter15;
+package chapter15;
 
 // streams/ForEach.java
 import java.util.*;
 import java.util.stream.*;
 
-import static com.example.onjava8.chapter15.RandInts.rands;
+import static chapter15.RandInts.rands;
 
 public class ForEach {
     static final int SZ = 14;

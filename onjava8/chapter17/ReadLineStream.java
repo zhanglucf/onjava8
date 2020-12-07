@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter17;
+package chapter17;
 
 // files/ReadLineStream.java
 import java.nio.file.*;

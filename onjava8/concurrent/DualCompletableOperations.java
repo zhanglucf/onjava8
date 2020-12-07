@@ -1,10 +1,10 @@
-package com.example.onjava8.concurrent;
+package concurrent;
 
 // concurrent/DualCompletableOperations.java
 
 import java.util.concurrent.CompletableFuture;
 
-import static com.example.onjava8.concurrent.CompletableUtilities.*;
+import static concurrent.CompletableUtilities.*;
 
 public class DualCompletableOperations {
     static CompletableFuture<Workable> cfA, cfB;

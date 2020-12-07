@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter11;
+package chapter11;
 
 // innerclasses/MultiImplementation.java
 // For concrete or abstract classes, inner classes

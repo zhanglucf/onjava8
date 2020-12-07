@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter8;
+package chapter8;
 
 // onjava/BasicSupplier.java
 // Supplier from a class with a no-arg constructor

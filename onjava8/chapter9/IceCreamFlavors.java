@@ -1,10 +1,10 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/IceCreamFlavors.java
 // Returning arrays from methods
 import java.util.*;
 
-import static com.example.onjava8.chapter9.ArrayShow.show;
+import static chapter9.ArrayShow.show;
 
 public class IceCreamFlavors {
     private static SplittableRandom rand = new SplittableRandom(47);

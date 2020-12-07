@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter19;
+package chapter19;
 
 // typeinfo/Shapes.java
 import java.util.stream.*;

@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 public interface ConvertTo {
     static boolean[] primitive(Boolean[] in) {

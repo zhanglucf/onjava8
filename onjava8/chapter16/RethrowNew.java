@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter16;
+package chapter16;
 
 // exceptions/RethrowNew.java
 // Rethrow a different object from the one you caught

@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // onjava/Rand.java
 // (c)2017 MindView LLC: see Copyright.txt
@@ -8,7 +8,7 @@ package com.example.onjava8.chapter9;
 import java.util.*;
 import java.util.function.*;
 
-import static com.example.onjava8.chapter9.ConvertTo.primitive;
+import static chapter9.ConvertTo.primitive;
 
 public interface Rand {
     int MOD = 10_000;

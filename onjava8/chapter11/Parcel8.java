@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter11;
+package chapter11;
 
 // innerclasses/Parcel8.java
 // Calling the base-class constructor

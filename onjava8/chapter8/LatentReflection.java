@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter8;
+package chapter8;
 
 // generics/LatentReflection.java
 // Using reflection for latent typing

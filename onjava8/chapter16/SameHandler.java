@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter16;
+package chapter16;
 
 // exceptions/SameHandler.java
 class EBase1 extends Exception {}

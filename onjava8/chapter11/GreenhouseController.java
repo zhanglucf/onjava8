@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter11;
+package chapter11;
 
 // innerclasses/GreenhouseController.java
 // Configure and execute the greenhouse system

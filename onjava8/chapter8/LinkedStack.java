@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter8;
+package chapter8;
 
 // generics/LinkedStack.java
 // 用链式结构实现的堆栈

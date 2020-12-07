@@ -1,11 +1,11 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/TestRand.java
 // Test random generators
 import java.util.*;
 import java.util.stream.*;
 
-import static com.example.onjava8.chapter9.ArrayShow.show;
+import static chapter9.ArrayShow.show;
 
 public class TestRand {
     static final int SZ = 5;

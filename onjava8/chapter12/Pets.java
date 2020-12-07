@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter12;
+package chapter12;
 
 // typeinfo/pets/Pets.java
 // Facade to produce a default PetCreator

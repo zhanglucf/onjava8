@@ -1,6 +1,6 @@
-package com.example.onjava8.chapter21;
+package chapter21;
 
-import static com.example.onjava8.chapter21.SpicinessEnum.*;
+import static chapter21.SpicinessEnum.*;
 
 // enums/SpicinessEnum.java
 enum SpicinessEnum {

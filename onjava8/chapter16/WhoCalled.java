@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter16;
+package chapter16;
 
 // exceptions/WhoCalled.java
 // Programmatic access to stack trace information

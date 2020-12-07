@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter12;
+package chapter12;
 
 // collections/UniqueWords.java
 import java.util.*;

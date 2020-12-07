@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter8;
+package chapter8;
 
 import java.util.Collection;
 import java.util.function.BiConsumer;

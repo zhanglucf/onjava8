@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter19;
+package chapter19;
 
 public class Toy {
     // 注释下面的无参数构造器会引起 NoSuchMethodError 错误

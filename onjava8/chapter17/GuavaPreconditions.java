@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter17;
+package chapter17;
 
 // validating/GuavaPreconditions.java
 // Demonstrating Guava Preconditions

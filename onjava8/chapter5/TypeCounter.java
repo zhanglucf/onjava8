@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter5;
+package chapter5;
 
 // onjava/TypeCounter.java
 // 计算类型家族的实例数

@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter5;
+package chapter5;
 
 import java.util.function.Supplier;
 import java.util.stream.Stream;

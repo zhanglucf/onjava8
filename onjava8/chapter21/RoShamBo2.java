@@ -1,6 +1,6 @@
-package com.example.onjava8.chapter21;
+package chapter21;
 
-import static com.example.onjava8.chapter21.Outcome.*;
+import static chapter21.Outcome.*;
 
 // enums/RoShamBo2.java
 // Switching one enum on another

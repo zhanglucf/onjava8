@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter6;
+package chapter6;
 
 // strings/TheReplacements.java
 import java.util.regex.*;

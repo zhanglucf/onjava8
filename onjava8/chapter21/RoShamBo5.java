@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter21;
+package chapter21;
 
 // enums/RoShamBo5.java
 // Multiple dispatching using an EnumMap of EnumMaps
@@ -6,7 +6,7 @@ package com.example.onjava8.chapter21;
 
 import java.util.*;
 
-import static com.example.onjava8.chapter21.Outcome.*;
+import static chapter21.Outcome.*;
 
 enum RoShamBo5 implements Competitor<RoShamBo5> {
     PAPER, SCISSORS, ROCK;

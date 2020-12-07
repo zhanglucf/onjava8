@@ -1,11 +1,11 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/ArrayCopying.java
 // Demonstrate Arrays.copy() and Arrays.copyOf()
 
 import java.util.Arrays;
 
-import static com.example.onjava8.chapter9.ArrayShow.show;
+import static chapter9.ArrayShow.show;
 
 class Sup {
     // Superclass

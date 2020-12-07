@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter5;
+package chapter5;
 
 // typeinfo/ShowMethods.java
 // 使用反射展示一个类的所有方法，甚至包括定义在基类中方法

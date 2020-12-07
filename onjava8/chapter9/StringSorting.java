@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/StringSorting.java
 // Sorting an array of Strings
@@ -7,7 +7,7 @@ package com.example.onjava8.chapter9;
 import java.util.Arrays;
 import java.util.Collections;
 
-import static com.example.onjava8.chapter9.ArrayShow.show;
+import static chapter9.ArrayShow.show;
 
 public class StringSorting {
     public static void main(String[] args) {

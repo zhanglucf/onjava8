@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter11;
+package chapter11;
 
 // innerclasses/mui/MultiInterfaces.java
 // Two ways a class can implement multiple interfaces

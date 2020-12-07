@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/MultidimensionalPrimitiveArray.java
 import java.util.*;

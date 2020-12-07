@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter3;
+package chapter3;
 
 // annotations/simplest/SimpleTest.java
 // Test the "Simple" annotation

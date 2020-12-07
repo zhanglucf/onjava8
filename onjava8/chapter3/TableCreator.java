@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter3;
+package chapter3;
 
 // annotations/database/TableCreator.java
 // Reflection-based annotation processor

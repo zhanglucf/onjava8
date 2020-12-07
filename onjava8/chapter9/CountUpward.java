@@ -1,10 +1,10 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/CountUpward.java
 
 import java.util.stream.LongStream;
 
-import static com.example.onjava8.chapter9.ArrayShow.show;
+import static chapter9.ArrayShow.show;
 
 public class CountUpward {
     static long[] fillCounted(int size) {

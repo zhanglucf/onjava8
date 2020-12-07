@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter8;
+package chapter8;
 // generics/Performs.java
 
 import com.example.onjava8.chapter12.Dog;

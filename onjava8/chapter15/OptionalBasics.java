@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter15;
+package chapter15;
 
 import java.util.Optional;
 import java.util.stream.Stream;

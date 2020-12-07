@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter6;
+package chapter6;
 
 public class SimpleFormat {
     public static void main(String[] args) {

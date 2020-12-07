@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter17;
+package chapter17;
 
 // validating/tests/CountedListTest.java
 // Simple use of JUnit to test CountedList.

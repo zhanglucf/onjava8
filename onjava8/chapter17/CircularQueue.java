@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter17;
+package chapter17;
 
 // validating/CircularQueue.java
 // Demonstration of Design by Contract (DbC)

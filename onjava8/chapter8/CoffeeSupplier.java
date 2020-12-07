@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter8;
+package chapter8;
 
 // generics/coffee/CoffeeSupplier.java
 // {java generics.coffee.CoffeeSupplier}

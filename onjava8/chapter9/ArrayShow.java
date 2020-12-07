@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // onjava/ArrayShow.java
 // (c)2017 MindView LLC: see Copyright.txt

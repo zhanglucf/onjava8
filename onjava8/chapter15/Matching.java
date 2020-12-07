@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter15;
+package chapter15;
 
 // streams/Matching.java
 // Demonstrates short-circuiting of *Match() operations

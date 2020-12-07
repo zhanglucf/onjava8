@@ -1,10 +1,8 @@
-package com.example.onjava8.chapter3;
+package chapter3;
+
+import org.junit.Test;
 
 //import com.example.onjava8.atunit.Test;
-
-
-import com.example.onjava8.atunit.Test;
-
 // annotations/AtUnitExample1.java
 // {java onjava.atunit.AtUnit
 // build/classes/main/annotations/AtUnitExample1.class}

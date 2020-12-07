@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter16;
+package chapter16;
 
 // exceptions/ExceptionSilencer.java
 public class ExceptionSilencer {

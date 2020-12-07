@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter17;
+package chapter17;
 
 // validating/CircularQueueException.java
 public class CircularQueueException extends RuntimeException {

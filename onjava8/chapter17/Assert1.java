@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter17;
+package chapter17;
 
 public class Assert1 {
     public static void main(String[] args) {

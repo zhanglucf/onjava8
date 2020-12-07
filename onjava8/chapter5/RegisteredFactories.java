@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter5;
+package chapter5;
 
 // typeinfo/RegisteredFactories.java
 // 注册工厂到基础类

@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter13;
+package chapter13;
 
 /**
  * 连续自然数求和

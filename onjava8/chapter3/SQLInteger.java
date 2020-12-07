@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter3;
+package chapter3;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

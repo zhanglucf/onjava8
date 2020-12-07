@@ -1,4 +1,4 @@
-package com.example.onjava8.concurrent;
+package concurrent;
 
 // concurrent/Batter.java
 import java.util.concurrent.*;

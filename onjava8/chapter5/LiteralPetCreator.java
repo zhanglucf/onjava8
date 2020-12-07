@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter5;
+package chapter5;
 
 import com.example.onjava8.chapter12.*;
 

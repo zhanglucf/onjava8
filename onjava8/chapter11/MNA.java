@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter11;
+package chapter11;
 
 // innerclasses/MultiNestingAccess.java
 // Nested classes can access all members of all

@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter5;
+package chapter5;
 
 // typeinfo/SelectingMethods.java
 // Looking for particular methods in a dynamic proxy

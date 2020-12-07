@@ -1,10 +1,10 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/ArrayOptions.java
 // Initialization & re-assignment of arrays
 import java.util.*;
 
-import static com.example.onjava8.chapter9.ArrayShow.show;
+import static chapter9.ArrayShow.show;
 
 public class ArrayOptions {
     public static void main(String[] args) {

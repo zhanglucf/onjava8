@@ -1,11 +1,11 @@
-package com.example.onjava8.chapter9;
+package chapter9;
 
 // arrays/SimpleSetAll.java
 
 import java.util.*;
 import java.util.function.IntConsumer;
 
-import static com.example.onjava8.chapter9.ArrayShow.show;
+import static chapter9.ArrayShow.show;
 
 class Bob {
     final int id;

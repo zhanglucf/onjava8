@@ -1,4 +1,4 @@
-package com.example.onjava8.concurrent;/*
+package concurrent;/*
  * ORACLE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  *
  *

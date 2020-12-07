@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter19;
+package chapter19;
 
 // typeinfo/ClassInitialization.java
 import java.util.*;

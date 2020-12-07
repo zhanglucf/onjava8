@@ -1,4 +1,4 @@
-package com.example.onjava8.chapter15;
+package chapter15;
 
 // streams/StreamOfOptionals.java
 import java.util.*;

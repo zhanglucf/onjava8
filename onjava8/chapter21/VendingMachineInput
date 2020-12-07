@@ -1,0 +1,3 @@
+// enums/VendingMachineInput.txt
+QUARTER; DIME; NICKEL; SODA;
+ABORT_TRANSACTION;

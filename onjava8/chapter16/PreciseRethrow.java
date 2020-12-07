@@ -1,0 +1,14 @@
+package com.example.onjava8.chapter16;
+
+class BaseException extends Exception {}
+class DerivedException extends BaseException {}
+
+public class PreciseRethrow {
+    void catcher() throws DerivedException {
+        try {
+            throw new DerivedException();
+        } catch(BaseException e) {
+            throw e;
+        }
+    }
+}

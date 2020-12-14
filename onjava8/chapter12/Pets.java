@@ -2,8 +2,8 @@ package chapter12;
 
 // typeinfo/pets/Pets.java
 // Facade to produce a default PetCreator
-import com.example.onjava8.chapter5.ForNameCreator;
-import com.example.onjava8.chapter5.LiteralPetCreator;
+import chapter5.ForNameCreator;
+import chapter5.LiteralPetCreator;
 
 import java.util.*;
 import java.util.stream.*;

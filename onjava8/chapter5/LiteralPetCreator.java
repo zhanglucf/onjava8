@@ -1,6 +1,6 @@
 package chapter5;
 
-import com.example.onjava8.chapter12.*;
+import chapter12.*;
 
 import java.util.Arrays;
 import java.util.Collections;

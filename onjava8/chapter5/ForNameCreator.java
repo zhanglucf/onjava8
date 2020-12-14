@@ -2,8 +2,8 @@ package chapter5;
 
 // typeinfo/pets/ForNameCreator.java
 
-import com.example.onjava8.chapter12.Pet;
-import com.example.onjava8.chapter12.PetCreator;
+import chapter12.Pet;
+import chapter12.PetCreator;
 
 import java.util.*;
 

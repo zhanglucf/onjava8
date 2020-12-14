@@ -4,7 +4,7 @@ package chapter5;
 // 测试 Class 类
 // {java typeinfo.toys.GenericToyTest}
 
-import com.example.onjava8.chapter19.FancyToy;
+import chapter19.FancyToy;
 
 public class GenericToyTest {
     public static void

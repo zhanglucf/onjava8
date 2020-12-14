@@ -3,8 +3,8 @@ package chapter5;
 // typeinfo/PetCount3.java
 // 使用 isInstance() 方法
 
-import com.example.onjava8.chapter12.Pet;
-import com.example.onjava8.chapter12.Pets;
+import chapter12.Pet;
+import chapter12.Pets;
 
 import java.util.*;
 import java.util.stream.*;

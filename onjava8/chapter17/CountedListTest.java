@@ -2,12 +2,15 @@ package chapter17;
 
 // validating/tests/CountedListTest.java
 // Simple use of JUnit to test CountedList.
+
 import org.junit.jupiter.api.*;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+
 
 public class CountedListTest {
     private CountedList list;

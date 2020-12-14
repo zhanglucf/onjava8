@@ -2,8 +2,8 @@ package chapter5;
 
 // typeinfo/PetCount4.java
 
-import com.example.onjava8.chapter12.Pet;
-import com.example.onjava8.chapter12.Pets;
+import chapter12.Pet;
+import chapter12.Pets;
 
 import java.util.stream.Collectors;
 

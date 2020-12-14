@@ -1,7 +1,7 @@
 package chapter8;
 // generics/Performs.java
 
-import com.example.onjava8.chapter12.Dog;
+import chapter12.Dog;
 
 interface Performs {
     void speak();

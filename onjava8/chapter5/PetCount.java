@@ -2,9 +2,9 @@ package chapter5;
 
 // typeinfo/PetCount.java
 // 使用 instanceof
-import com.example.onjava8.chapter12.*;
-import com.example.onjava8.chapter12.PetCreator;
-import com.example.onjava8.chapter12.Pets;
+import chapter12.*;
+import chapter12.PetCreator;
+import chapter12.Pets;
 
 import java.util.*;
 

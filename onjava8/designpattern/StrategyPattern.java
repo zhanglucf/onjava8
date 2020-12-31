@@ -13,7 +13,7 @@ class FindMinima {
 // The various strategies:
 class LeastSquares extends FindMinima {
     LeastSquares() {
-        // Line is a sequence of points (Dummy data):
+        // Line is a sequence of points (Dummy filechannel.txt):
         algorithm = (line) -> Arrays.asList(1.1, 2.2);
     }
 }

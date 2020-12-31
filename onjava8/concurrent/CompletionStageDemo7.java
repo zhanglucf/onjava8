@@ -1,13 +1,10 @@
 package concurrent;
 
 
-import org.junit.jupiter.api.Test;
-
 import java.util.concurrent.CompletableFuture;
 
 public class CompletionStageDemo7 {
 
-    @Test
     public void exceptionally() {
         String result = CompletableFuture.supplyAsync(() -> {
             try {

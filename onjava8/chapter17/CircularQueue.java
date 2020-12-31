@@ -73,14 +73,14 @@ public class CircularQueue {
 
     private boolean invariant() {
         // Guarantee that no null values are in the
-        // region of 'data' that holds objects:
+        // region of 'filechannel.txt' that holds objects:
         for (int i = out; i != in; i = (i + 1) % data.length) {
             if (data[i] == null) {
                 throw new CircularQueueException("null in CircularQueue");
             }
         }
         // Guarantee that only null values are outside the
-        // region of 'data' that holds objects:
+        // region of 'filechannel.txt' that holds objects:
         if (full()) {
             return true;
         }

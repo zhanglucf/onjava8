@@ -6,7 +6,7 @@ public class Nap {
 
     public Nap(double t) {
         try {
-            TimeUnit.MILLISECONDS.sleep((long)t );
+            TimeUnit.MILLISECONDS.sleep((long)t*1000 );
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
